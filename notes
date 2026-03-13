@@ -1,0 +1,37 @@
+<!-- Stuff to add to the website later -->
+
+<!-- BELIEVE SECTION -->
+      <h2 class="text-4xl pt-28 pb-10" style="font-weight: 400">What I believe in: </h2>
+      <section class="grid grid-cols-3 pt-5 gap-18">
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Build for people.</h2> 
+            <p class="text-2lg">The term "user" is not in my vocabulary. I design and build for real people and organizations.</p>
+        </div>
+
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Prioritize basics.</h2> 
+            <p class="text-1xl">I grind the basics when I can to make sure my knowledge base is strong. I'd rather not rely on AI-generated code. 
+            </p>
+        </div>
+
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Simplicity first.</h2> 
+            <p class="text-1xl">Nature is simple. </p>
+        </div>
+
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Lorum ipsum.</h2> 
+            <p class="text-1xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        </div>
+
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Lorum ipsum.</h2> 
+            <p class="text-1xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        </div>
+
+        <div>
+            <h2 class="text-3xl text-[#241C15] pb-6" style="font-weight: 500">Lorum ipsum.</h2> 
+            <p class="text-1xl">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+        </div>
+        
+      </section>
